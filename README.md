@@ -5,7 +5,7 @@ Repository to store HRC20 token logos
 
 ## Steps to add your HRC20 logo
 * Fork this repository
-* Add your logo by creating the logo image name using your HRC20 contract one-address and placing it inside `HRC20/`, e.g. `HRC20/one1pdv9lrdwl0rg5vglh4xtyrv3wjk3wsqket7zxy.jpg`
+* Add your logo by creating the logo image name using your HRC20 contract one-address and placing it inside `HRC20/`, e.g. `HRC20/one1pdv9lrdwl0rg5vglh4xtyrv3wjk3wsqket7zxy.png`
 * Append your HRC20 token's basic information (including address, name, symbol, decimals, totalSupply, description, website) to the bottom of the list.json,
 
 For example, append yours to the last lines of [list.json](https://github.com/harmony-one/HRC20-logos/blob/master/list.json)
