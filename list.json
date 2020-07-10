@@ -10,5 +10,17 @@
             "en": "H2O...",
             "cn": "..."
         }
+    },
+    {
+        "address":"one194rafykqj7q5x9cuk4mjyjlrn2salawwvj4uz6",
+        "decimals":18,
+        "totalSupply":"201925001200",
+        "name":"BUSD",
+        "symbol":"BUSD",
+        "website":"https://harmony.one",
+        "description":{
+          "en":"BUSD for testing",
+          "cn":"..."
+        }
     }
 ]
