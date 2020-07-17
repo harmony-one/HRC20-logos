@@ -1,14 +1,13 @@
 [
     {
-        "address": "one1h4z5vzhgl7h223teecakpt4n6tjh864zksax8f",
+        "address": "one10y76c0kyj6d9hmngf0859yx49l4c75d5z77zxr",
         "decimals": 6,
-        "totalSupply": "1000000000000",
-        "name": "H2O",
-        "symbol": "H2O",
-        "website": "https://harmony.one",
+        "totalSupply": "447014001200",
+        "name": "SEED",
+        "symbol": "SEED",
+        "website": "",
         "description": {
-            "en": "H2O...",
-            "cn": "..."
+            "en": "..."
         }
     }
 ]
