@@ -10,4 +10,15 @@
             "en": "..."
         }
     }
+        {
+        "address": "one1fy7f6smzld8ar5xp0fhv45yduvlurkxzr0mj8g",
+        "decimals": 18,
+        "totalSupply": "100000000000",
+        "name": "1SEED",
+        "symbol": "1SEED",
+        "website": "",
+        "description": {
+            "en": "..."
+        }
+    }
 ]
