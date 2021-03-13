@@ -1,7 +1,7 @@
 [
     {
         "address": "one1pfcrvq0c7eqag4u28kgugsl8tady0gdryt7gc8",
-        "decimals": 6,
+        "decimals": 18,
         "totalSupply": "21000000",
         "name": "Clay's Tipping Service",
         "symbol": "CTS",
