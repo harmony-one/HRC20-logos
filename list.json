@@ -1,12 +1,12 @@
 [
-...
+
 {
     "address": "0x638AFc7d8b8296be363fcdba575315Aa7000e5E2",
     "name": "MONOPOLY",
     "symbol": "MPLY",
     "decimals": 18,
     "totalSupply": "100000000",
-    "website": "",
+    "website": "www.mply.org",
     "description": {
         "en": "..."
     }
