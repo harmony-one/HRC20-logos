@@ -20,5 +20,22 @@
         "description": {
             "en": "..."
         }
-    }
+    },
+    {    "address": "one1pplpkyth06rpy9prxjlfs6kmdaj27ud43t89lh", #0x087e1B11777e8612142334BE986aDb6F64aF71B5
+        "name": "EXARPEE",
+        "symbol": "PEE",
+        "decimals": 18,
+        "totalSupply": "69420141220",
+        "website": "https://www.altstreetbets.com/exarpee",
+        "description": {
+            "en": "PEEing on people, duh"
+            "nl": "Mensen digitaal onder pissen, omdat het in de echte wereld niet kan"
+            "de": "Wasser lassen mit dem fleischgewehr"
+            "fy": "{stroke: 404}"
+            "sv": "Släpp loss vattenslangen min vän"
+            "sr": "Пишање по људима и уваљивање једнооког питона"
+            "it": "Fare pipì sulla gente"
+            "hr": "Digitalno pomagalo za popiškiti se na ljude"
+        }
+    },
 ]
