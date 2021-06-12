@@ -20,5 +20,16 @@
         "description": {
             "en": "..."
         }
+    },
+    {
+        "address": "one1dhvxg0lrveccw6rr594p3zgvv4e7esqhlfpulg",
+        "decimals": 18,
+        "totalSupply": "1000000000",
+        "name": "Rivergreenswap",
+        "symbol": "RIVER",
+        "website": "",
+        "description": {
+            "en": "..."
+        }
     }
 ]
