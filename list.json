@@ -21,4 +21,19 @@
             "en": "..."
         }
     }
+    
+    {
+        "address": "one1lggcfde6ynz5ycgrwejhngk2nh2wge0j2egk6j",
+        "decimals": 20,
+        "totalSupply": "1000000",
+        "name": "SUN",
+        "symbol": "SUN",
+        "website": "",
+        "description": {
+            "en": "..."
+        }
+    }
+
+    }
+    
 ]
