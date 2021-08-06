@@ -20,5 +20,16 @@
         "description": {
             "en": "..."
         }
+    },
+    {
+        "address": "one1mmvkp5gptg6p6d2xqzvl5lymnakzclv7jm7mrh",
+        "decimals": 18,
+        "totalSupply": "1000000000",
+        "name": "Cyanide",
+        "symbol": "CYANIDE",
+        "website": "",
+        "description": {
+            "en": "Cyanide is a HRC20 Token under Harmony Network. Swap, Provide liquidity and earn."
+        }
     }
 ]
