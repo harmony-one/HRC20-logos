@@ -27,9 +27,20 @@
         "totalSupply": "1000000000",
         "name": "Cyanide",
         "symbol": "CYANIDE",
-        "website": "",
+        "website": "https://cyanide.co.in",
         "description": {
             "en": "Cyanide is a HRC20 Token under Harmony Network. Swap, Provide liquidity and earn."
+        }
+    },
+    {
+        "address": "one1ajzt2ksecl6kum9eju9putsvl8efx2plg7fm38",
+        "decimals": 18,
+        "totalSupply": "100000000",
+        "name": "Poison",
+        "symbol": "POISON",
+        "website": "https://cyanide.co.in",
+        "description": {
+            "en": "Poison is a HRC20 Token under Harmony Network. Swap, Provide liquidity and earn."
         }
     }
 ]
