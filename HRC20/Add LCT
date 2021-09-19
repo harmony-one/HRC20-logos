@@ -1,1 +1,9 @@
-one1m9f8ygperx9fgd3zp2mlutvm9tycgwv6nmljec
+{
+    "address": "one1m9f8ygperx9fgd3zp2mlutvm9tycgwv6nmljec",
+    "name": "Lion Club Token",
+    "symbol": "LCT",
+    "decimals": 8,
+    "totalSupply": "500000000",
+    "website": "https://lionclub.one",
+    "description": {
+        "en": "..."
