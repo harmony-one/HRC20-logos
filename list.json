@@ -20,5 +20,16 @@
         "description": {
             "en": "..."
         }
+    },
+    {
+        "address": "one1vm8cxa0apql86ypadymcaxhjpud5dhzeetm2yj",
+        "name": "Harmony Play",
+        "symbol": "HPLAY",
+        "decimals": 18,
+        "totalSupply": "210,000,000",
+        "website": "https://harmonyplay.one",
+        "description": {
+            "en": "Harmony Play is a Play to Earn gaming platform built on the Harmony blockchain."
+        }
     }
 ]
