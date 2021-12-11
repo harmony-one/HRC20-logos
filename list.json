@@ -20,5 +20,16 @@
         "description": {
             "en": "..."
         }
+    },
+    {
+        "address": "one1txpzsepad74pk4tfc0vedjuvlr9plkujfkqrhs",
+        "name": "equals9",
+        "symbol": "EQ9",
+        "decimals": 18,
+        "totalSupply": "1800000000",
+        "website": "https://equals9.com",
+        "description": {
+            "en": "An utility and staking token for players and their fans on an e-sport platform"
+        }
     }
 ]
