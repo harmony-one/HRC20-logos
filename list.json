@@ -1,22 +1,11 @@
 [
     {
-        "address": "one10y76c0kyj6d9hmngf0859yx49l4c75d5z77zxr",
-        "decimals": 6,
-        "totalSupply": "447014001200",
-        "name": "SEED",
-        "symbol": "SEED",
-        "website": "",
-        "description": {
-            "en": "..."
-        }
-    },
-    {
-        "address": "one1fy7f6smzld8ar5xp0fhv45yduvlurkxzr0mj8g",
+        "address": "one13stf29kzapmtzxkl5mw0jnxz8xymhc38zxvya3",
         "decimals": 18,
-        "totalSupply": "100000000000",
-        "name": "1SEED",
-        "symbol": "1SEED",
-        "website": "",
+        "totalSupply": "100000",
+        "name": "Aurum BNB",
+        "symbol": "bscAUB",
+        "website": "https://aurumbnb.xyz",
         "description": {
             "en": "..."
         }
