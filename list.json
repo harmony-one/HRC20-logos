@@ -20,5 +20,16 @@
         "description": {
             "en": "..."
         }
+    },
+    {
+        "address": "one17dc8gk4mq435msctnr0c3uzvch8ry0sqdh54j6",
+        "decimals": 0,
+        "totalSupply": "1000000000000",
+        "name": "Expart BUCKS",
+        "symbol": "BUCKS",
+        "website": "https://expart.me",
+        "description": {
+            "en": "We all know what art is right? Well, expart.me is a fun way to judge NFT's, the new era of digital art. Just pick the more expensive NFT!"
+        }
     }
 ]
