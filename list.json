@@ -1,24 +1,13 @@
 [
     {
-        "address": "one10y76c0kyj6d9hmngf0859yx49l4c75d5z77zxr",
-        "decimals": 6,
-        "totalSupply": "447014001200",
-        "name": "SEED",
-        "symbol": "SEED",
-        "website": "",
-        "description": {
-            "en": "..."
-        }
-    },
-    {
-        "address": "one1fy7f6smzld8ar5xp0fhv45yduvlurkxzr0mj8g",
+        "address": "one1ma8aj3y7dw08wpzmd06g6w4qcf284r3g57dc5u",
         "decimals": 18,
-        "totalSupply": "100000000000",
-        "name": "1SEED",
-        "symbol": "1SEED",
-        "website": "",
+        "totalSupply": "1000000000",
+        "name": "Heil DeFi",
+        "symbol": "HEFI",
+        "website": "https://heildefi.one",
         "description": {
-            "en": "..."
+            "en": "Decentralized ecosystem for Harmony Protocol Launchpad | MultiSender | Go To Future | Grants | Fiat Gateways"
         }
     }
 ]
