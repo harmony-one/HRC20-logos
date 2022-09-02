@@ -20,5 +20,16 @@
         "description": {
             "en": "..."
         }
+    },
+    {
+        "address": "one1mahp439c0ksj9pl6y27wvr3fyhqgc0mcel2308",
+        "decimals": 18,
+        "totalSupply": "1000000000",
+        "name": "Planet League X",
+        "symbol": "PLX",
+        "website": "www.planetleauge.app",
+        "description": {
+            "en": "Planet League 'X' (PLX) is an HRC 20 compliant utility token used on the Planet League eSports gaming platform."
+        }
     }
 ]
