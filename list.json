@@ -1,24 +1,13 @@
 [
     {
-        "address": "one10y76c0kyj6d9hmngf0859yx49l4c75d5z77zxr",
-        "decimals": 6,
-        "totalSupply": "447014001200",
-        "name": "SEED",
-        "symbol": "SEED",
-        "website": "",
-        "description": {
-            "en": "..."
-        }
-    },
-    {
-        "address": "one1fy7f6smzld8ar5xp0fhv45yduvlurkxzr0mj8g",
+        "address": "one1ld09twyah6hsz7tmu0m5f024dexelvje7w6v49",
         "decimals": 18,
-        "totalSupply": "100000000000",
-        "name": "1SEED",
-        "symbol": "1SEED",
-        "website": "",
+        "totalSupply": "10000000",
+        "name": "Think in Coin",
+        "symbol": "NEURONS",
+        "website": "https://thinkincoin.com",
         "description": {
-            "en": "..."
+            "en": "An immersive academy offering comprehensive courses in the crypto domain along with a unique service dedicated to producing meme tokens for the community. NEURONS, more than a currency, it's an experience. "
         }
     }
 ]
