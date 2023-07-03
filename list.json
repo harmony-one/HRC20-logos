@@ -9,5 +9,16 @@
         "description": {
             "en": "An immersive academy offering comprehensive courses in the crypto domain along with a unique service dedicated to producing meme tokens for the community. NEURONS, more than a currency, it's an experience. "
         }
+    },
+    {
+        "address": "one17dc8gk4mq435msctnr0c3uzvch8ry0sqdh54j6",
+        "decimals": 0,
+        "totalSupply": "1000000000000",
+        "name": "Expart BUCKS",
+        "symbol": "BUCKS",
+        "website": "https://expart.me",
+        "description": {
+            "en": "We all know what art is right? Well, expart.me is a fun way to judge NFT's, the new era of digital art. Just pick the more expensive NFT!"
+        }
     }
 ]
