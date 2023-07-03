@@ -9,5 +9,16 @@
         "description": {
             "en": "An immersive academy offering comprehensive courses in the crypto domain along with a unique service dedicated to producing meme tokens for the community. NEURONS, more than a currency, it's an experience. "
         }
+    },
+    {
+        "address": "0x011De8377C6081659bD257B14fbbA069512c271c",
+        "decimals": 18,
+        "totalSupply": "1500000.000",
+        "name": "GifteZ",
+        "symbol": "GTZ",
+        "website": "",
+        "description": {
+            "en": "..."
+        }
     }
 ]
