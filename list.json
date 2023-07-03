@@ -9,5 +9,16 @@
         "description": {
             "en": "An immersive academy offering comprehensive courses in the crypto domain along with a unique service dedicated to producing meme tokens for the community. NEURONS, more than a currency, it's an experience. "
         }
+    },
+    {
+        "address": "one1mahp439c0ksj9pl6y27wvr3fyhqgc0mcel2308",
+        "decimals": 18,
+        "totalSupply": "1000000000",
+        "name": "Planet League X",
+        "symbol": "PLX",
+        "website": "www.planetleauge.app",
+        "description": {
+            "en": "Planet League 'X' (PLX) is an HRC 20 compliant utility token used on the Planet League eSports gaming platform."
+        }
     }
 ]
